@@ -1,0 +1,11 @@
+Python POC
+
+Python Schedule
+
+To Run the program for every day in particular time period that python pgm will automatically run 
+
+To Achieve this pgm in two ways 
+
+1. Schedule and time packages 
+2. Cronjob 
+
